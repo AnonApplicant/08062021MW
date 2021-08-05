@@ -145,12 +145,12 @@ updated_dt FROM pre_people;`
 
 ## Analytics Exercise
 
-- [View printout]()
+- [View completed Analytics Exercise.pdf]()
 - [Download scratch spreadsheet](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Email Segmentation Exercise
 
-[View Email Segmentation Exercise](https://github.com/AnonApplicant/Assessment/blob/19647e5dfb1d45fa9d78be709e5fe3b893ddf362/Segmentation%20Quality%20Assurance%20Exercise.pdf)
+[View Email Segmentation Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/19647e5dfb1d45fa9d78be709e5fe3b893ddf362/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
 
