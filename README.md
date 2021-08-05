@@ -149,7 +149,7 @@ updated_dt FROM pre_people;`
 
 ## Email Segmentation Exercise
 
-[View Email Segmentation Exercise] (https://github.com/AnonApplicant/Assessment/blob/19647e5dfb1d45fa9d78be709e5fe3b893ddf362/Segmentation%20Quality%20Assurance%20Exercise.pdf)
+[View Email Segmentation Exercise](https://github.com/AnonApplicant/Assessment/blob/19647e5dfb1d45fa9d78be709e5fe3b893ddf362/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
 
