@@ -22,7 +22,11 @@ Part IV
 ## ETL Exercise
 
 ### About
-Used SQL and pgAdmin
+Completed ETL exercise using SQL as I'm currently able to write SQL faster than Python. 
+
+### Resources Used
+- pgAdmin
+- [QuickDatabaseDiagrams.com](https://www.quickdatabasediagrams.com/) 
 
 #### Created Quick Database Drawing
 
