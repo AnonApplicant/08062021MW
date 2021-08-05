@@ -127,4 +127,4 @@ created_dt,
 updated_dt FROM pre_people;`
 
 #### Exported people table
-[View exported people table](people.csv)
+[View exported people table](https://github.com/AnonApplicant/Assessment/blob/226ea19fda577d51980a66aab15135abc4141f98/people.csv)
