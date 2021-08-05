@@ -28,6 +28,8 @@ Used SQL and pgAdmin
 
 [View illustration](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
 
+![Alt text](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
+
 #### Created Tables of Provided Files
 
 `-- Created cons table`
