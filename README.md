@@ -2,27 +2,32 @@
 Completed Aug 6, 2021
 
 ---
-
-## Table of Content
+### Table of Content
 
 Part I
-- ETL Exercise
-- Sample Client Email
+- [ETL Exercise](#etl-exercise)
+- [Sample Client Email](#sample-client-email)
 
 Part II
-- [Analytics Exercise](#etl-exercise)
+- [Analytics Exercise](#analytics-exercise)
 
 Part III
-- Email Segmentation Exercise
+- [Email Segmentation Exercise](#email-segmentation-exercise)
 
 Part IV
-- Proofing Exercise
+- [Proofing Exercise](#proofing-exercise)
 
-# ETL Exercise
+---
 
-### Used SQL
+## ETL Exercise
 
-#### Created tables with provided files
+### Used SQL and pgAdmin
+
+#### Created Quick Database Drawing
+
+[pic]
+
+#### Created Tables of Provided Files
 
 `-- Created cons table`
 
@@ -115,7 +120,7 @@ ON cons_email.cons_email_id = cons_email_chapter_subscription.cons_email_id AND 
 WHERE cons_email.is_primary = true
 ;`
 
-#### Created people table
+#### Created People Table
 
 `-- Create people table`
 
@@ -126,5 +131,21 @@ isunsub AS is_unsub,
 created_dt, 
 updated_dt FROM pre_people;`
 
-#### Exported people table
+#### Exported People Table
 [View exported people table](https://github.com/AnonApplicant/Assessment/blob/226ea19fda577d51980a66aab15135abc4141f98/people.csv)
+
+## Sample Client Email
+
+[View sample email]()
+
+## Analytics Exercise
+
+[link]()
+
+## Email Segmentation Exercise
+
+[link]()
+
+## Proofing Exercise
+
+[link]()
