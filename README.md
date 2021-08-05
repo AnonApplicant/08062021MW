@@ -132,7 +132,7 @@ created_dt,
 updated_dt FROM pre_people;`
 
 #### Exported People Table
-[View exported people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
+[View people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
 
 ## Sample Client Email
 
