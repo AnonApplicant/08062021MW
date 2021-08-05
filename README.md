@@ -28,9 +28,9 @@ Completed ETL exercise using SQL as I'm currently able to write SQL faster than 
 - pgAdmin
 - [QuickDatabaseDiagrams.com](https://www.quickdatabasediagrams.com/) 
 
-#### Created Quick Database Drawing
+#### Created Quick Database Diagram
 
-[View illustration](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
+[View Diagram](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
 
 ![Alt text](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
 
