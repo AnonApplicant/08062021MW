@@ -3,17 +3,17 @@ Completed Aug 6, 2021
 
 ---
 
-## Index
+## Table of Content
 
 Part I
-- ETL Exercise: “ALS - Data Engineering Exercise” 
-- Sample Client Email: “Client Comms - Data Engineer”
+- ETL Exercise
+- Sample Client Email
 
 Part II
 - [Analytics Exercise](#etl-exercise)
 
 Part III
-- Email Segmentation Exercise: “Segmentation Quality Assurance exercise”
+- Email Segmentation Exercise
 
 Part IV
 - Proofing Exercise
