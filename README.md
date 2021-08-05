@@ -32,6 +32,8 @@ Used SQL and pgAdmin
 
 #### Created Tables of Provided Files
 
+_View easier-to-read SQL Queries [here](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)._
+
 `-- Created cons table`
 
 `CREATE TABLE cons (
