@@ -21,11 +21,12 @@ Part IV
 
 ## ETL Exercise
 
-### Used SQL and pgAdmin
+### About
+Used SQL and pgAdmin
 
 #### Created Quick Database Drawing
 
-[pic]
+[View illustration](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
 
 #### Created Tables of Provided Files
 
