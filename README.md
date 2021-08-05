@@ -145,8 +145,8 @@ updated_dt FROM pre_people;`
 
 ## Analytics Exercise
 
-[View printout]()
-[Download scratch spreadsheet](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
+- [View printout]()
+- [Download scratch spreadsheet](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Email Segmentation Exercise
 
