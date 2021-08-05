@@ -127,5 +127,4 @@ created_dt,
 updated_dt FROM pre_people;`
 
 #### Exported people table
-
-[link]
+[View exported people table](people.csv)
