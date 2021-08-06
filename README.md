@@ -25,9 +25,9 @@ Completed Aug 6, 2021
 - [View SQL Queries](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)._
 
 Workflow:
-1. Created Database Diagram - [View Diagram](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
-2. Created Tables of Provided Files
-3. Inner Joins
+1. Created [Database Diagram](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
+2. Created Tables and imported data using provided files
+3. Performed Inner Joins to create pre-people table
 4. Created People Table
 
 #### Deliverable I: Exported People Table
