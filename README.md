@@ -38,11 +38,39 @@ Completed Aug 6, 2021
 
 `CREATE TABLE cons_email_chapter_subscription ( cons_email_chapter_subscription_id INT NOT NULL, cons_email_id VARCHAR(10) NOT NULL, chapter_id INT NOT NULL, isunsub BOOLEAN NOT NULL, unsub_dt TIMESTAMP NOT NULL, modified_dt TIMESTAMP NOT NULL, FOREIGN KEY (cons_email_id) REFERENCES cons_email (cons_email_id), PRIMARY KEY (cons_email_chapter_subscription_id) );`
 
-#### 3. Performed Inner Joins to create pre-people table
+#### 3. Performed Inner Joins
+- [View easier to read SQL Queries](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)
+
+`-- Create pre_people table`
+
+`CREATE TABLE pre_people AS
+SELECT cons.cons_id, cons.subsource, cons_email.cons_email_id, email, cons_email.is_primary, 
+cons.create_dt AS created_dt, cons.modified_dt AS updated_dt, cons_email_chapter_subscription.isunsub  
+FROM cons
+INNER JOIN cons_email
+ON cons.cons_id = cons_email.cons_id
+INNER JOIN cons_email_chapter_subscription
+ON cons_email.cons_email_id = cons_email_chapter_subscription.cons_email_id AND chapter_id = 1
+WHERE cons_email.is_primary = true`
 
 #### 4. Created People Table
+- [View easier to read SQL Queries](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)
+
+`-- Create people table`
+
+`CREATE TABLE people AS
+SELECT email, subsource AS code, isunsub AS is_unsub, created_dt, updated_dt FROM pre_people;`
+
 
 #### 4. Created Aquisition Facts
+- [View easier to read SQL Queries](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)
+
+`-- Create acquisition_facts`
+
+`SELECT DATE(created_dt) AS acquisition_date, COUNT(distinct email) 
+FROM people
+GROUP BY acquisition_date
+ORDER BY acquisition_date desc;`
 
 ### ETL Deliverable I: People Table
 - View [people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
