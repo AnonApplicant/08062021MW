@@ -82,11 +82,11 @@ ORDER BY acquisition_date desc;`
 - View [Sample Email]()
 
 ## Analytics Exercise
-- View [Completed Analytics Exercise](https://github.com/AnonApplicant/Assessment/blob/a4bcfc120a0b9dc196928885b6ec5f6b4bf92d63/Analytics%20-%20Spreadsheet%20Results.docx.pdf)
+- View [Completed Analytics Exercise](https://github.com/AnonApplicant/Assessment/blob/4a7db16994f600b49ca3141d06b1e9a44db81e25/Analytics%20Exercise%20Results.pdf)
 - Download [Analytics Exercise Scratch Work](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Email Segmentation Exercise
 - View [Completed Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/9ea1e6a0453b214254d08fb4655f3045c3ab230b/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
-- Download [Complted General Proofing Exercise](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
+- Download [Complted General Proofing Exercise.docx](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
