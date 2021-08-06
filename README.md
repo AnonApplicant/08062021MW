@@ -86,7 +86,7 @@ ORDER BY acquisition_date desc;`
 - Download [Analytics Exercise Scratch Work](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Email Segmentation Exercise
-- View [Completed Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/9ea1e6a0453b214254d08fb4655f3045c3ab230b/Segmentation%20Quality%20Assurance%20Exercise.pdf)
+- View [Completed Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/741d39492da79707cc2466cbfc7491221bc89dc2/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
 - Download [Complted General Proofing Exercise.docx](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
