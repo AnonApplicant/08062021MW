@@ -16,7 +16,7 @@ Completed Aug 6, 2021
 ## ETL Exercise
 
 ### Resources Used
-- Postgress
+- Postgres
 - pgAdmin
 - QuickDatabaseDiagrams.com
 
@@ -89,4 +89,4 @@ ORDER BY acquisition_date desc;`
 - View [Completed Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/741d39492da79707cc2466cbfc7491221bc89dc2/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
-- Download [Complted General Proofing Exercise.docx](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
+- Download [Completed General Proofing Exercise.docx](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
