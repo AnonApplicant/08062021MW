@@ -39,16 +39,16 @@ Workflow:
 
 ## Sample Client Email
 
-- [View sample email]()
+- [View Sample Email]()
 
 ## Analytics Exercise
 
-- [View Analytics Exercise]()
-- [Download scratch spreadsheet](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
+- [View COmpleted Analytics Exercise]()
+- [Download scratch spreadsheet work](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Email Segmentation Exercise
 
-- [View Email Segmentation Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/9ea1e6a0453b214254d08fb4655f3045c3ab230b/Segmentation%20Quality%20Assurance%20Exercise.pdf)
+- [View COmpleted Email Segmentation Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/9ea1e6a0453b214254d08fb4655f3045c3ab230b/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
 - [Download .doc]()
