@@ -1,7 +1,6 @@
 # Data Engineering Technical Assessment
 Completed Aug 6, 2021
 
----
 ### Table of Content
 
 - [ETL Exercise](#etl-exercise)
