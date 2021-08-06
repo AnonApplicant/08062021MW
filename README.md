@@ -71,8 +71,11 @@ GROUP BY acquisition_date
 ORDER BY acquisition_date desc;`
 
 ### ETL Deliverable I: People Table
-- Download [people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
-- Preview below: 
+- Download [people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv) 
+
+_(Preview below)_
+
+![people table preview](https://github.com/AnonApplicant/Assessment/blob/720d7d0604b113227c3428fc4251e17aff983b15/people_table_preview.png)
 
 ### ETL Deliverable 2: Acquisition Facts
 - View [aquisition_facts.csv](https://github.com/AnonApplicant/Assessment/blob/ecd0d546940ca67630e3432def5b62ccc5dc6ea2/acquisition_facts.csv)
