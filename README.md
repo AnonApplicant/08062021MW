@@ -83,7 +83,7 @@ ORDER BY acquisition_date desc;`
 
 ## Analytics Exercise
 - View [Completed Analytics Exercise]()
-- Download [scratch spreadsheet work](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
+- Download [Analytics Exercise Scratch Work](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Segmentation Quality Assurance Exercise
 - View [Completed Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/9ea1e6a0453b214254d08fb4655f3045c3ab230b/Segmentation%20Quality%20Assurance%20Exercise.pdf)
