@@ -71,7 +71,8 @@ GROUP BY acquisition_date
 ORDER BY acquisition_date desc;`
 
 ### ETL Deliverable I: People Table
-- View [people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
+- Download [people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
+- Preview below: 
 
 ### ETL Deliverable 2: Acquisition Facts
 - View [aquisition_facts.csv](https://github.com/AnonApplicant/Assessment/blob/ecd0d546940ca67630e3432def5b62ccc5dc6ea2/acquisition_facts.csv)
@@ -82,11 +83,11 @@ ORDER BY acquisition_date desc;`
 - View [Sample Email]()
 
 ## Analytics Exercise
-- View [Completed Analytics Exercise](https://github.com/AnonApplicant/Assessment/blob/4a7db16994f600b49ca3141d06b1e9a44db81e25/Analytics%20Exercise%20Results.pdf)
+- View completed [Analytics Exercise](https://github.com/AnonApplicant/Assessment/blob/4a7db16994f600b49ca3141d06b1e9a44db81e25/Analytics%20Exercise%20Results.pdf)
 - Download [Analytics Exercise Scratch Work](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Email Segmentation Exercise
-- View [Completed Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/741d39492da79707cc2466cbfc7491221bc89dc2/Segmentation%20Quality%20Assurance%20Exercise.pdf)
+- View completed [Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/741d39492da79707cc2466cbfc7491221bc89dc2/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
-- Download [Completed General Proofing Exercise.docx](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
+- Download completed [General Proofing Exercise.docx](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
