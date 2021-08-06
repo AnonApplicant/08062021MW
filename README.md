@@ -82,7 +82,7 @@ ORDER BY acquisition_date desc;`
 - View [Sample Email]()
 
 ## Analytics Exercise
-- View [Completed Analytics Exercise]()
+- View [Completed Analytics Exercise](https://github.com/AnonApplicant/Assessment/blob/a4bcfc120a0b9dc196928885b6ec5f6b4bf92d63/Analytics%20-%20Spreadsheet%20Results.docx.pdf)
 - Download [Analytics Exercise Scratch Work](https://github.com/AnonApplicant/Assessment/blob/80700a6c8a964936190c395630c69a57e6a80be1/Analytics%20Exercise_Work.xlsx)
 
 ## Email Segmentation Exercise
