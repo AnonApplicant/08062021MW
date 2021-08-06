@@ -89,4 +89,4 @@ ORDER BY acquisition_date desc;`
 - View [Completed Segmentation Quality Assurance Exercise.pdf](https://github.com/AnonApplicant/Assessment/blob/9ea1e6a0453b214254d08fb4655f3045c3ab230b/Segmentation%20Quality%20Assurance%20Exercise.pdf)
 
 ## Proofing Exercise
-- Download [.doc]()
+- Download [Complted General Proofing Exercise](https://github.com/AnonApplicant/Assessment/blob/24f61a4524847a129d216f1a94ca9543cf1b53fa/General%20Proofing%20Exercise.docx)
