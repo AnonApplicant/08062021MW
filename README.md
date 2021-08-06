@@ -1,6 +1,8 @@
 # Data Engineering Technical Assessment
 Completed Aug 6, 2021
 
+---
+
 ### Table of Content
 
 - [ETL Exercise](#etl-exercise)
@@ -17,22 +19,23 @@ Completed Aug 6, 2021
 - pgAdmin
 - [QuickDatabaseDiagrams.com](https://www.quickdatabasediagrams.com/) 
 
-#### Created Quick Database Diagram
-
-[View Diagram](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
-
 ![Alt text](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
 
 
 - [View SQL Queries](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)._
 
-Process Overview:
-- Created Tables of Provided Files
-- Inner Joins
-- Created People Table
+Workflow:
+1. Created Database Diagram - [View Diagram](https://github.com/AnonApplicant/Assessment/blob/17b39860bb088dc9e088cf5f4e827b72238fb00f/ETL_Quick_Database_Drawing.png)
+2. Created Tables of Provided Files
+3. Inner Joins
+4. Created People Table
 
-#### Exported People Table
+#### Deliverable I: Exported People Table
 - [View people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
+
+
+#### Deliverable 2: Exported Acquisition Facts
+- [link]()
 
 ## Sample Client Email
 
