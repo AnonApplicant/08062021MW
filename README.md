@@ -61,7 +61,7 @@ WHERE cons_email.is_primary = true`
 SELECT email, subsource AS code, isunsub AS is_unsub, created_dt, updated_dt FROM pre_people;`
 
 
-#### 4. Created Aquisition Facts
+#### 5. Created Aquisition Facts
 
 `-- Create acquisition_facts`
 
