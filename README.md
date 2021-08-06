@@ -31,12 +31,12 @@ Workflow:
 3. Performed Inner Joins to create pre-people table
 4. Created People Table
 
-#### Deliverable I: Exported People Table
+#### Deliverable I: People Table
 - [View people.csv](https://github.com/AnonApplicant/Assessment/blob/0359ad6e97d2076b46ce13196d139a5722fb68ce/people.csv)
 
 
-#### Deliverable 2: Exported Acquisition Facts
-- [link]()
+#### Deliverable 2: Acquisition Facts
+- [View aquisition_facts.csv](https://github.com/AnonApplicant/Assessment/blob/ecd0d546940ca67630e3432def5b62ccc5dc6ea2/acquisition_facts.csv)
 
 ## Sample Client Email
 
