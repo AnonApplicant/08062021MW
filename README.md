@@ -16,6 +16,7 @@ Completed Aug 6, 2021
 ## ETL Exercise
 
 ### Resources Used
+- Postgress
 - pgAdmin
 - [QuickDatabaseDiagrams.com](https://www.quickdatabasediagrams.com/) 
 
