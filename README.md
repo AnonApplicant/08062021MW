@@ -80,6 +80,10 @@ _(Preview below)_
 ### ETL Deliverable 2: Acquisition Facts
 - View [aquisition_facts.csv](https://github.com/AnonApplicant/Assessment/blob/ecd0d546940ca67630e3432def5b62ccc5dc6ea2/acquisition_facts.csv)
 
+_(Preview below)_
+
+![aquisition facts preview](https://github.com/AnonApplicant/Assessment/blob/5cea7f58a61afb004adb7397734801ab83ba3904/acquisition_facts_preview.png)
+
 ---
 
 ## Sample Client Email
