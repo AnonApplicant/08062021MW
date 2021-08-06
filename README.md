@@ -54,7 +54,6 @@ ON cons_email.cons_email_id = cons_email_chapter_subscription.cons_email_id AND 
 WHERE cons_email.is_primary = true`
 
 #### 4. Created People Table
-- [View easier to read SQL Queries](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)
 
 `-- Create people table`
 
@@ -63,7 +62,6 @@ SELECT email, subsource AS code, isunsub AS is_unsub, created_dt, updated_dt FRO
 
 
 #### 4. Created Aquisition Facts
-- [View easier to read SQL Queries](https://github.com/AnonApplicant/Assessment/blob/46e71ca437f7548224420dabb07b0cc768f1175f/sql_queries.sql)
 
 `-- Create acquisition_facts`
 
@@ -77,6 +75,8 @@ ORDER BY acquisition_date desc;`
 
 ### ETL Deliverable 2: Acquisition Facts
 - View [aquisition_facts.csv](https://github.com/AnonApplicant/Assessment/blob/ecd0d546940ca67630e3432def5b62ccc5dc6ea2/acquisition_facts.csv)
+
+---
 
 ## Sample Client Email
 - View [Sample Email]()
